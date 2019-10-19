@@ -1,1 +1,2 @@
 C:\Users\Gio Soriano\Source\Repos\Prueba2\PrimerAPP\PrimerAPP\bin\Debug\PrimerAPP.exe.config
+C:\Users\SHL\source\repos\C-\PrimerAPP\PrimerAPP\bin\Debug\PrimerAPP.exe.config

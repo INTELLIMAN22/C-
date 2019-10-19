@@ -19,9 +19,12 @@ namespace PrimerAPP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo mundial");
-           
+            if (MessageBox.Show("Hola mundo mundial de la generacion z",ProductName,MessageBoxButtons.OK,MessageBoxIcon.Information)==DialogResult.OK)
+            {
             Close();
+            }
+          
+         
        
         }
     }
